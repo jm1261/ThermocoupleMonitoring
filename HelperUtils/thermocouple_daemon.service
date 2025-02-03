@@ -1,0 +1,12 @@
+[Unit]
+Description=My Daemon Service
+After=network.target
+
+[Service]
+User=phorest
+Working@Directory=/home/phorest/Documents/Github/ThermocoupleMonitoring
+ExecStart=/home/phorest/Documents/Github/ThermocoupleMonitoring/.venv/bin/python /home/phorest/Documents/Github/ThermocoupleMonitoring/Thermocouple.py
+Restart=always
+
+[Install]
+WantedBy=multi-user.target

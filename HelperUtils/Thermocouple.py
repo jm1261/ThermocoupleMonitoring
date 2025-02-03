@@ -25,8 +25,9 @@ def read_sensor_name(directory: os.PathLike) -> str:
 
     """
     name_file = Path(directory, 'name')
-    f = open(name_file, 'r')
-    return f.readline()
+    with open(name_file, 'r') as f:
+        line = f.readline()
+    return line
 
 
 def read_raw_temperature(file_path: os.PathLike) -> list:
@@ -46,9 +47,8 @@ def read_raw_temperature(file_path: os.PathLike) -> list:
         List of temperature data from sensor file.
 
     """
-    file = open(file_path, 'r')
-    lines = file.readlines()
-    file.close()
+    with open(file_path, 'r') as f:
+        lines = f.readlines()
     return lines
 
 
@@ -85,13 +85,7 @@ def plot_thermocouples_data(dataframe,
                             outpath: str):
     """
     Function Details
-    ================
-    Plot thermocouple dataframe.
-
-    Parameters
-    ----------
-    dataframe: any
-        Pandas dataframe
+    ================del dataframee
     columns_to_plot: list
         List of column headers.
     outpath: str
@@ -145,3 +139,5 @@ def plot_thermocouples_data(dataframe,
         outpath,
         bbox_inches='tight'
     )
+    plt.cla()
+    plt.close(fig)
