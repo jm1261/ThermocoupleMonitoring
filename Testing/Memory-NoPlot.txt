@@ -1,0 +1,183 @@
+               total        used        free      shared  buff/cache   available
+Mem:            8048        1602        5831         158         870        6445
+Swap:            511         220         291
+               total        used        free      shared  buff/cache   available
+Mem:            8048        1617        5815         173         885        6430
+Swap:            511         220         291
+               total        used        free      shared  buff/cache   available
+Mem:            8048        1594        5838         163         875        6453
+Swap:            511         220         291
+               total        used        free      shared  buff/cache   available
+Mem:            8048        1587        5844         156         868        6460
+Swap:            511         220         291
+               total        used        free      shared  buff/cache   available
+Mem:            8048        1581        5850         152         865        6466
+Swap:            511         220         291
+               total        used        free      shared  buff/cache   available
+Mem:            8048        1579        5853         150         863        6469
+Swap:            511         220         291
+               total        used        free      shared  buff/cache   available
+Mem:            8048        1579        5852         155         868        6468
+Swap:            511         220         291
+               total        used        free      shared  buff/cache   available
+Mem:            8048        1543        5888         154         868        6504
+Swap:            511         220         291
+               total        used        free      shared  buff/cache   available
+Mem:            8048        1544        5887         155         868        6504
+Swap:            511         220         291
+               total        used        free      shared  buff/cache   available
+Mem:            8048        1573        5858         165         878        6475
+Swap:            511         220         291
+               total        used        free      shared  buff/cache   available
+Mem:            8048        1574        5856         166         880        6473
+Swap:            511         220         291
+               total        used        free      shared  buff/cache   available
+Mem:            8048        1584        5846         175         889        6463
+Swap:            511         220         291
+               total        used        free      shared  buff/cache   available
+Mem:            8048        1582        5848         173         887        6465
+Swap:            511         220         291
+               total        used        free      shared  buff/cache   available
+Mem:            8048        1583        5847         173         888        6464
+Swap:            511         220         291
+               total        used        free      shared  buff/cache   available
+Mem:            8048        1585        5845         174         889        6462
+Swap:            511         220         291
+               total        used        free      shared  buff/cache   available
+Mem:            8048        1586        5843         175         889        6461
+Swap:            511         220         291
+               total        used        free      shared  buff/cache   available
+Mem:            8048        1583        5847         174         889        6465
+Swap:            511         220         291
+               total        used        free      shared  buff/cache   available
+Mem:            8048        1585        5844         174         889        6463
+Swap:            511         220         291
+               total        used        free      shared  buff/cache   available
+Mem:            8048        1585        5844         175         890        6463
+Swap:            511         220         291
+               total        used        free      shared  buff/cache   available
+Mem:            8048        1587        5842         174         890        6461
+Swap:            511         220         291
+               total        used        free      shared  buff/cache   available
+Mem:            8048        1586        5843         173         888        6462
+Swap:            511         220         291
+               total        used        free      shared  buff/cache   available
+Mem:            8048        1588        5841         172         888        6460
+Swap:            511         220         291
+               total        used        free      shared  buff/cache   available
+Mem:            8048        1590        5838         177         893        6457
+Swap:            511         220         291
+               total        used        free      shared  buff/cache   available
+Mem:            8048        1591        5837         175         891        6457
+Swap:            511         220         291
+               total        used        free      shared  buff/cache   available
+Mem:            8048        1590        5837         174         891        6457
+Swap:            511         220         291
+               total        used        free      shared  buff/cache   available
+Mem:            8048        1594        5833         174         891        6453
+Swap:            511         220         291
+               total        used        free      shared  buff/cache   available
+Mem:            8048        1595        5832         175         891        6452
+Swap:            511         220         291
+               total        used        free      shared  buff/cache   available
+Mem:            8048        1595        5832         174         891        6452
+Swap:            511         220         291
+               total        used        free      shared  buff/cache   available
+Mem:            8048        1597        5830         173         890        6450
+Swap:            511         220         291
+               total        used        free      shared  buff/cache   available
+Mem:            8048        1598        5829         173         891        6450
+Swap:            511         220         291
+               total        used        free      shared  buff/cache   available
+Mem:            8048        1602        5825         174         892        6445
+Swap:            511         220         291
+               total        used        free      shared  buff/cache   available
+Mem:            8048        1596        5830         175         892        6451
+Swap:            511         220         291
+               total        used        free      shared  buff/cache   available
+Mem:            8048        1589        5837         175         893        6458
+Swap:            511         220         291
+               total        used        free      shared  buff/cache   available
+Mem:            8048        1587        5839         173         891        6460
+Swap:            511         220         291
+               total        used        free      shared  buff/cache   available
+Mem:            8048        1591        5835         174         892        6457
+Swap:            511         220         291
+               total        used        free      shared  buff/cache   available
+Mem:            8048        1593        5832         173         892        6454
+Swap:            511         220         291
+               total        used        free      shared  buff/cache   available
+Mem:            8048        1594        5831         173         891        6453
+Swap:            511         220         291
+               total        used        free      shared  buff/cache   available
+Mem:            8048        1599        5826         173         892        6448
+Swap:            511         220         291
+               total        used        free      shared  buff/cache   available
+Mem:            8048        1598        5827         172         891        6449
+Swap:            511         220         291
+               total        used        free      shared  buff/cache   available
+Mem:            8048        1603        5822         173         892        6445
+Swap:            511         220         291
+               total        used        free      shared  buff/cache   available
+Mem:            8048        1600        5825         173         892        6448
+Swap:            511         220         291
+               total        used        free      shared  buff/cache   available
+Mem:            8048        1599        5825         173         892        6448
+Swap:            511         220         291
+               total        used        free      shared  buff/cache   available
+Mem:            8048        1599        5825         173         893        6448
+Swap:            511         220         291
+               total        used        free      shared  buff/cache   available
+Mem:            8048        1604        5820         173         893        6443
+Swap:            511         220         291
+               total        used        free      shared  buff/cache   available
+Mem:            8048        1604        5820         173         893        6443
+Swap:            511         220         291
+               total        used        free      shared  buff/cache   available
+Mem:            8048        1605        5819         174         894        6442
+Swap:            511         220         291
+               total        used        free      shared  buff/cache   available
+Mem:            8048        1608        5816         174         895        6440
+Swap:            511         220         291
+               total        used        free      shared  buff/cache   available
+Mem:            8048        1609        5815         174         895        6438
+Swap:            511         220         291
+               total        used        free      shared  buff/cache   available
+Mem:            8048        1610        5814         175         895        6437
+Swap:            511         220         291
+               total        used        free      shared  buff/cache   available
+Mem:            8048        1610        5813         174         895        6437
+Swap:            511         220         291
+               total        used        free      shared  buff/cache   available
+Mem:            8048        1611        5811         175         896        6436
+Swap:            511         220         291
+               total        used        free      shared  buff/cache   available
+Mem:            8048        1602        5820         173         894        6445
+Swap:            511         220         291
+               total        used        free      shared  buff/cache   available
+Mem:            8048        1604        5818         172         894        6443
+Swap:            511         220         291
+               total        used        free      shared  buff/cache   available
+Mem:            8048        1607        5816         173         895        6441
+Swap:            511         220         291
+               total        used        free      shared  buff/cache   available
+Mem:            8048        1608        5814         172         894        6439
+Swap:            511         220         291
+               total        used        free      shared  buff/cache   available
+Mem:            8048        1615        5807         174         896        6432
+Swap:            511         220         291
+               total        used        free      shared  buff/cache   available
+Mem:            8048        1608        5814         174         896        6439
+Swap:            511         220         291
+               total        used        free      shared  buff/cache   available
+Mem:            8048        1608        5813         174         897        6439
+Swap:            511         220         291
+               total        used        free      shared  buff/cache   available
+Mem:            8048        1612        5809         173         896        6435
+Swap:            511         220         291
+               total        used        free      shared  buff/cache   available
+Mem:            8048        1613        5808         173         896        6434
+Swap:            511         220         291
+               total        used        free      shared  buff/cache   available
+Mem:            8048        1638        5783         187         910        6409
+Swap:            511         220         291
